@@ -394,7 +394,7 @@ nav {
 @media (min-width: 768px) {
     .tag_line {
         font-size: 3rem;
-        line-height: 0.47; /* for tablets */
+        line-height: 0.47; 
         
     }
     .tag_line h1{
