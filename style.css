@@ -22,7 +22,7 @@ body{
     transition: background-color 1s ease-in-out;
     transition: color 1s ease;
 
-      cursor: url("http://www.rw-designer.com/cursor-view/66150.png"),auto;
+      cursor: url("./66150.png"),auto;
 background-color:#000;
 color: #fff;
 margin: 0;
