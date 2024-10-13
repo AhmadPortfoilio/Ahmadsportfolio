@@ -9,7 +9,7 @@ hamburger.addEventListener('click', () => {
 
     // Change icon based on menu visibility
     if (navLinks.classList.contains('show')) {
-        hamburger.src = '01fe6447fbd35f56bf5b36ce07e7fabb-removebg-preview.png'; // Change to close icon
+        hamburger.src = './01fe6447fbd35f56bf5b36ce07e7fabb-removebg-preview.png'; // Change to close icon
     } else {
         hamburger.src = '/m2i8i8A0K9A0H7b1_0_-removebg-preview.png ';
     }
