@@ -390,7 +390,7 @@ nav {
   font-weight: 400;
   font-size:1.8rem ;
 }
-/*
+
 @media (min-width: 768px) {
     .tag_line {
         font-size: 2.5rem;
@@ -398,14 +398,14 @@ nav {
         
     }
     .tag_line h1{
-       font-size: 2.5rem;
+       font-size: 2.2rem;
     }
     .side_line{
-      height: 23vw;
+      height: 16vw;
       width: 1.5vw;
     }
 }
-*/
+
 @media (min-width: 1024px) {
     .tag_line {
         font-size: 2.5rem;
